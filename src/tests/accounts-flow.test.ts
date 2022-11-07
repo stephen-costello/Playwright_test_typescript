@@ -4,6 +4,15 @@ import { EmailOtp } from "../pages/accounts-domain/EmailOtp";
 import { SignUp } from "../pages/accounts-domain/SignUp";
 import { createTestIdentifier } from "../utils";
 
+/**
+ * Project Name    : rest-assured-java
+ * Developer       : OStephen Costello
+ * Version         : -
+ * Date            : 7/11/2022
+ * Time            : -
+ * Description     : Sample rnavigate to and assert test via playwright
+ **/
+
 describe("Sign up example flow", () => {
   afterAll(async () => {
     /**
