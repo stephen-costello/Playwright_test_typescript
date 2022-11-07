@@ -5,7 +5,7 @@ import { SignUp } from "../pages/accounts-domain/SignUp";
 import { createTestIdentifier } from "../utils";
 
 /**
- * Project Name    : rest-assured-java
+ * Project Name    : playwright-test-typescript
  * Developer       : Stephen Costello
  * Version         : -
  * Date            : 7/11/2022
