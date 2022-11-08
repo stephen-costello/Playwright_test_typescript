@@ -10,7 +10,7 @@ import { createTestIdentifier } from "../utils";
  * Version         : -
  * Date            : 7/11/2022
  * Time            : -
- * Description     : Sample rnavigate to and assert test via playwright
+ * Description     : Sample navigate to and assert test via playwright
  **/
 
 describe("Sign up example flow", () => {
